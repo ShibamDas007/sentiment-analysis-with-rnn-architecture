@@ -29,7 +29,7 @@ pip install tensorflow nltk scikit-learn
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/sentiment-analysis.git
+   git clone https://github.com/ShibamDas007/sentimental-analysis-with-rnn-architecture
    ```
 
 2. Navigate to the project directory:
